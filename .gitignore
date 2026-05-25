@@ -1,0 +1,26 @@
+# Dependency directories
+**/node_modules/
+node_modules/
+
+# Production builds
+**/dist/
+dist/
+
+# Angular cache and config
+**/.angular/
+.angular/
+
+# Environment files (Security!)
+**/.env
+.env
+
+# Local database fallback logs/files
+**/database-fallback.json
+
+# IDE config
+.vscode/
+.idea/
+
+# System / OS files
+.DS_Store
+Thumbs.db
