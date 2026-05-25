@@ -24,3 +24,7 @@ dist/
 # System / OS files
 .DS_Store
 Thumbs.db
+
+# Documentation files to keep local only
+Guia_Estudo.md
+Relatorio_Professor.md
